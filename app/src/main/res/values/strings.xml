@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculadora2021</string>
+    <string name="titulo1">Calculadora</string>
+    <string name="segundo_numero">Segundo Numero</string>
+    <string name="sumar">+</string>
+    <string name="primer_numero">Primer Numero</string>
+</resources>
